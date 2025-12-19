@@ -26,3 +26,21 @@ console.log(b)
 // "" => false
 // " " => true
 // "abc" => true
+
+// ***********************operations********************** //
+
+let str1 = "Aagam"
+let str2 = "Shah"
+
+console.log(str1 + str2)
+console.log(1+"2")
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+2+2)
+console.log(1+2+"2")
+
+console.log(+true)
+console.log(+false)
+console.log(+"")
+console.log(+" ")
+
